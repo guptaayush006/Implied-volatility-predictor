@@ -84,3 +84,7 @@ Actual vs. Predicted IV: A line graph comparing the actual and predicted IV for 
 Feature Importance: A bar chart of feature importances highlights the most influential predictors, offering insights into the key drivers of implied volatility. 📊
 
 This comprehensive approach, combining advanced feature engineering with a powerful machine learning model, results in a robust and accurate solution for implied volatility forecasting.
+
+## Contributors
+
+- [guptaayush006](https://github.com/guptaayush006)
